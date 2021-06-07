@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=sandeep-singh26&color=blue)
+
 ### Hello!! I'm Sandeep Singh 👋
 
 
@@ -14,6 +16,8 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep-singh26&show_icons=true&theme=dark)
+
+
 
 
 
