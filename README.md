@@ -28,7 +28,7 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-singh26&layout=compact)](https://github.com/sandeep-singh26/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-singh26&layout=compact&theme=dark)](https://github.com/sandeep-singh26/github-readme-stats)
 
 
 
