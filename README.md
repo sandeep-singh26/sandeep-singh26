@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=sandeep-singh26&color=blue)
 
-### Hello!! I'm Sandeep Singh 👋
+### Hello!! 👋 I'm Sandeep Singh
 
 
 
@@ -12,7 +12,10 @@
 
 
 - 💬 Ask me about any web or tech related stuff.
-- 📫 How to reach me: on instagram @i_em_sandeep._
+- 📫 How to reach me: singhsandeep2682001@gmail.com
+
+
+
 
 ## Sandeep Singh's GitHub Stats
 ![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeep-singh26&show_icons=true&theme=dark)
