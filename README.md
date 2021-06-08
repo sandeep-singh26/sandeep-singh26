@@ -3,7 +3,7 @@
 ### Hello!! 👋 I'm Sandeep Singh
 <h3 align="center">
 <h3 align="left">Connect with me:</h3>
-<p align="center">
+<p align="left">
 <a href="https://twitter.com/sandeep_singh_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandeep_singh_8" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/sandeep-singh-9aba991a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandeep-singh-9aba991a8" height="30" width="40" /></a>
 <a href="https://instagram.com/i_em_sandeep._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_em_sandeep._" height="30" width="40" /></a>
