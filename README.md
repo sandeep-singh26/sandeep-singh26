@@ -39,8 +39,7 @@
 
 </p>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-singh26&layout=compact&theme=dark)](https://github.com/sandeep-singh26/github-readme-stats)
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep-singh26&show_icons=true&locale=en&layout=compact&theme=dark" alt="sandeep-singh26" /></p>
 
 
 
