@@ -1,6 +1,15 @@
 ![](https://komarev.com/ghpvc/?username=sandeep-singh26&color=blue)
 
 ### Hello!! 👋 I'm Sandeep Singh
+<h3 align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/sandeep_singh_8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandeep_singh_8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sandeep-singh-9aba991a8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandeep-singh-9aba991a8" height="30" width="40" /></a>
+<a href="https://instagram.com/i_em_sandeep._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_em_sandeep._" height="30" width="40" /></a>
+<a href="https://www.behance.net/https://www.behance.net/sandeepsingh97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/sandeepsingh97" height="30" width="40" /></a>
+</p>
+
 
 
 
@@ -32,7 +41,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeep-singh26&layout=compact&theme=dark)](https://github.com/sandeep-singh26/github-readme-stats)
-
 
 
 
